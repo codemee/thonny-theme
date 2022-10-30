@@ -1,0 +1,21 @@
+{
+  "name": "thonny-theme",
+  "displayName": "thonny-theme",
+  "description": "A color theme for  VSCode that mimics the  Thonny IDE's default theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "thonny-light",
+        "uiTheme": "vs",
+        "path": "./themes/thonny-light-color-theme.json"
+      }
+    ]
+  }
+}
