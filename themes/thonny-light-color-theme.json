@@ -1194,18 +1194,18 @@
 				"foreground": "#EE0000"
 			}
 		},
-		{
-			"scope": "constant.character",
-			"settings": {
-				"foreground": "#0000FF"
-			}
-		},
-		{
-			"scope": "constant.character.escape",
-			"settings": {
-				"foreground": "#EE0000"
-			}
-		},
+		// {
+		// 	"scope": "constant.character",
+		// 	"settings": {
+		// 		"foreground": "#0000FF"
+		// 	}
+		// },
+		// {
+		// 	"scope": "constant.character.escape",
+		// 	"settings": {
+		// 		"foreground": "#EE0000"
+		// 	}
+		// },
 		{
 			"scope": "entity.name.label",
 			"settings": {
